@@ -1,1 +1,1 @@
-# backgroundremover.theapp.biz
+# support.theapp.biz
