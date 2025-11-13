@@ -13,7 +13,7 @@ All our apps are built with performance, privacy, and ease of use in mind.
 
 If you need help with any of our apps, you can always reach us here:
 
-**Email:** support@theapp.biz
+**Email:** [support@theapp.biz](mailto:support@theapp.biz)
 
 We usually reply within **24–48 hours**.
 
